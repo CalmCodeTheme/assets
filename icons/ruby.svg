@@ -3,6 +3,6 @@
 <rect x="6" y="2" width="1" height="9" rx="0.5" fill="white"/>
 <rect x="10" y="2" width="1" height="4" rx="0.5" transform="rotate(90 10 2)" fill="white"/>
 <rect x="10" y="6" width="1" height="4" rx="0.5" transform="rotate(-180 10 6)" fill="white"/>
-<rect width="1" height="6.21098" rx="0.5" transform="matrix(-0.849232 0.52802 -0.472493 -0.881334 9.78388 10.474)" fill="white"/>
 <rect x="6" y="6" width="1" height="4" rx="0.5" transform="rotate(-90 6 6)" fill="white"/>
+<path d="M6.32361 5.64721C6.17493 5.34986 6.39116 5 6.72361 5C6.893 5 7.04785 5.0957 7.12361 5.24721L9.67639 10.3528C9.82507 10.6501 9.60884 11 9.27639 11C9.107 11 8.95215 10.9043 8.87639 10.7528L6.32361 5.64721Z" fill="white"/>
 </svg>

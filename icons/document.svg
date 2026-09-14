@@ -1,9 +1,8 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="7" y="3" width="2" height="1" rx="0.5" fill="#AA99FD"/>
-<rect x="5" y="5" width="6" height="1" rx="0.5" fill="#AA99FD"/>
-<rect x="5" y="7" width="6" height="1" rx="0.5" fill="#AA99FD"/>
-<rect x="5" y="9" width="6" height="1" rx="0.5" fill="#AA99FD"/>
-<rect x="5" y="12" width="2" height="1" rx="0.5" fill="#AA99FD"/>
-<rect x="8" y="12" width="1" height="1" rx="0.5" fill="#AA99FD"/>
-<path d="M5 1.5H8C10.4853 1.5 12.5 3.51472 12.5 6V13C12.5 13.8284 11.8284 14.5 11 14.5H5C4.17157 14.5 3.5 13.8284 3.5 13V3C3.5 2.22334 4.09028 1.58461 4.84668 1.50781L5 1.5Z" stroke="#AA99FD"/>
+<rect x="6" y="4" width="4" height="1" rx="0.5" fill="#AA99FD"/>
+<rect x="5" y="6" width="6" height="1" rx="0.5" fill="#AA99FD"/>
+<rect x="5" y="8" width="6" height="1" rx="0.5" fill="#AA99FD"/>
+<rect x="5" y="10" width="6" height="1" rx="0.5" fill="#AA99FD"/>
+<rect x="5" y="12" width="6" height="1" rx="0.5" fill="#AA99FD"/>
+<path d="M5 1.5H8C10.4853 1.5 12.5 3.51472 12.5 6V13C12.5 13.8284 11.8284 14.5 11 14.5H5C4.17157 14.5 3.5 13.8284 3.5 13V3C3.5 2.17157 4.17157 1.5 5 1.5Z" stroke="#AA99FD"/>
 </svg>
