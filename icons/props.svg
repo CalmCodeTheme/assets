@@ -1,10 +1,10 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="21" y="4" width="3" height="13" rx="1.5" transform="rotate(90 21 4)" fill="#FEC008"/>
-<rect x="6" y="4" width="4" height="4" rx="2" transform="rotate(90 6 4)" fill="#AA99FD"/>
-<rect x="6" y="11" width="4" height="4" rx="2" transform="rotate(90 6 11)" fill="#AA99FD"/>
-<rect x="30" y="11" width="3" height="22" rx="1.5" transform="rotate(90 30 11)" fill="#FEC008"/>
-<rect x="16" y="18" width="3" height="8" rx="1.5" transform="rotate(90 16 18)" fill="#FEC008"/>
-<rect x="6" y="18" width="4" height="4" rx="2" transform="rotate(90 6 18)" fill="#AA99FD"/>
-<rect x="27" y="25" width="3" height="19" rx="1.5" transform="rotate(90 27 25)" fill="#FEC008"/>
-<rect x="6" y="25" width="4" height="4" rx="2" transform="rotate(90 6 25)" fill="#AA99FD"/>
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="7" y="1" width="2" height="3" rx="1" transform="rotate(90 7 1)" fill="#FEC008"/>
+<rect x="3" y="1" width="2" height="2" rx="1" transform="rotate(90 3 1)" fill="#AA99FD"/>
+<rect x="3" y="5" width="2" height="2" rx="1" transform="rotate(90 3 5)" fill="#AA99FD"/>
+<rect x="14" y="5" width="2" height="10" rx="1" transform="rotate(90 14 5)" fill="#FEC008"/>
+<rect x="11" y="9" width="2" height="7" rx="1" transform="rotate(90 11 9)" fill="#FEC008"/>
+<rect x="3" y="9" width="2" height="2" rx="1" transform="rotate(90 3 9)" fill="#AA99FD"/>
+<rect x="13" y="13" width="2" height="9" rx="1" transform="rotate(90 13 13)" fill="#FEC008"/>
+<rect x="3" y="13" width="2" height="2" rx="1" transform="rotate(90 3 13)" fill="#AA99FD"/>
 </svg>
