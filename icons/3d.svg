@@ -1,5 +1,18 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M10.5 14.5L1.5 14.5L1.5 5.5L10.5 5.5L10.5 14.5Z" fill="#D9D9D9" stroke="#EB7700"/>
-<path d="M14.5 11.2734L11.5 13.8984L11.5 5.20703L14.5 2.20703L14.5 11.2734Z" fill="#A2A2A2" stroke="#EB7700"/>
-<path d="M13.793 1.5L10.793 4.5H2.10156L4.72656 1.5L13.793 1.5Z" fill="white" stroke="#EB7700"/>
+<g clip-path="url(#clip0_97_8)">
+<mask id="path-1-outside-1_97_8" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16" fill="black">
+<rect fill="white" width="16" height="16"/>
+<path d="M15 1V11.5L11 15H1V5L4.5 1H15Z"/>
+</mask>
+<path d="M15 1V11.5L11 15H1V5L4.5 1H15Z" fill="white"/>
+<path d="M15 1H16V0H15V1ZM15 11.5L15.6585 12.2526L16 11.9538V11.5H15ZM11 15V16H11.3757L11.6585 15.7526L11 15ZM1 15H0V16H1V15ZM1 5L0.247423 4.3415L0 4.62426V5H1ZM4.5 1V0H4.04623L3.74742 0.341495L4.5 1ZM15 1H14V11.5H15H16V1H15ZM15 11.5L14.3415 10.7474L10.3415 14.2474L11 15L11.6585 15.7526L15.6585 12.2526L15 11.5ZM11 15V14H1V15V16H11V15ZM1 15H2V5H1H0V15H1ZM1 5L1.75258 5.6585L5.25258 1.6585L4.5 1L3.74742 0.341495L0.247423 4.3415L1 5ZM4.5 1V2H15V1V0H4.5V1Z" fill="#AA99FD" mask="url(#path-1-outside-1_97_8)"/>
+<path d="M11 5L11 15L1 15L1 5L11 5Z" fill="#D9D9D9"/>
+<path d="M15 1L15 11.5L11 15L11 5L15 1Z" fill="#A2A2A2"/>
+<path d="M4.5 1L15 1L11 5L1 5L4.5 1Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_97_8">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
 </svg>
